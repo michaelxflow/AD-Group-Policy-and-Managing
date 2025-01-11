@@ -18,14 +18,14 @@ This tutorial goes along wth my previous Lab https://github.com/michaelxflow/Act
 - Windows Server 2022
 - Windows 10 (21H2)
 
-<h2>High-Level Deployment and Configuration Steps</h2>
+<h2>Highlights</h2>
 
 - Step 1
 - Step 2
 - Step 3
 - Step 4
 
-<h2>Deployment and Configuration Steps</h2>
+<h2>Dealing with Account Lockouts</h2>
 
 <p>
 <img src="https://github.com/user-attachments/assets/a43e17e1-fb05-4570-8fe4-2249828fec9c" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -119,7 +119,7 @@ This tutorial goes along wth my previous Lab https://github.com/michaelxflow/Act
 <br />
 
 <p>
-<img src="(https://github.com/user-attachments/assets/a2d8c50e-f8e2-418c-8a65-7cc582fccf61" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/a2d8c50e-f8e2-418c-8a65-7cc582fccf61" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
@@ -127,8 +127,11 @@ This tutorial goes along wth my previous Lab https://github.com/michaelxflow/Act
 <br />
 
 
+<h2>Enabling and Disabling Accounts</h2>
+
+
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/973a4e04-b99a-4407-8d0a-6c0bc7c721c9" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
@@ -136,7 +139,7 @@ This tutorial goes along wth my previous Lab https://github.com/michaelxflow/Act
 <br />
 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/401ca847-c7ed-4e6b-811b-c337d0e8c971" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
@@ -144,10 +147,46 @@ This tutorial goes along wth my previous Lab https://github.com/michaelxflow/Act
 <br />
 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/b85a6b9f-8b76-4aba-ae35-cc186c3c67bc" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
 </p>
 <br />
+
+
+
+<h2>Observing Logs</h2>
+
+
+<p>
+<img src="https://github.com/user-attachments/assets/5a6530e5-406d-4fb2-a78e-390dff13e98b" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+</p>
+<br />
+
+<p>
+<img src="https://github.com/user-attachments/assets/dc248216-45eb-44e8-a47d-16ef24daff33" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+</p>
+<br />
+
+<p>
+<img src="https://github.com/user-attachments/assets/12750fca-2291-42b9-a7c6-ed0f260a672c" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+<p>
+
+</p>
+<p>
+
+</p>
+<br />
+
+
 
